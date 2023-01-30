@@ -1,0 +1,19 @@
+Index	
+Zone Name	
+Date	
+pressure	
+temperatureMin	
+temperatureLow	
+temperatureMax	
+temperatureHigh	
+cloudCover	
+windSpeed	
+precipProbability	
+windGust	
+windBearing	
+uvIndex	
+precipIntensityMax	
+precipIntensity	ozone	
+visibility	
+moonPhase	
+class
